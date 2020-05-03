@@ -1,0 +1,84 @@
+.herder1{
+	background-color:#09F;
+	padding:15px 5px 35px 5px;
+	
+}
+
+li{
+	padding-left: 19px;
+	/* margin-left: 5px; */
+}
+
+.dropdown-menu a:hover
+{
+	
+	background:rgb(1, 47, 78);
+	color:#FFF;
+	border-radius: 50px;
+	animation-duration: 25px;
+	
+}
+
+.top{
+	color: rgb(255, 255, 255);
+}
+
+.abc{
+	background-color: #09F;
+	border: #09F;
+	color: white;
+	border-radius: 60px;
+}
+
+.abc:hover{
+	background-color: rgb(0, 65, 170);
+}
+
+
+#marqi{
+	background-color: #09F;
+	color: #FFF;
+}
+
+
+.intro{
+   background-color: rgb(30, 89, 197);
+    padding-top: 9%;
+	margin-top: -4%;
+	text-align: justify;
+    word-spacing: 5px;
+    padding-left: 0px;
+	margin: 0px 200px 20px 200px;
+	color: whitesmoke;
+}
+
+
+.heading{
+	background-color: rgb(69, 221, 89);
+	padding: 20px 0px 20px;
+}
+
+.icons{
+	height: 50px; 
+	margin-top: 50px;
+
+}
+.shadow {
+	border: 1px solid black;
+	padding: 10px;
+	box-shadow: 10px 10px red;  
+}
+.shadow1 {
+	width: 50%px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	text-align: center;
+  }
+  .sec2img{
+	  margin-top: 20px;
+  }
+  .sec3style{
+	background-color: #B0E0E6; 
+	height: 50px;
+  }
+
+
